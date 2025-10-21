@@ -1,0 +1,2 @@
+# Pratice Composition in Java
+The objective this program is pratice composition in Java and see how to use StringBuilder. Program to simulate a post on internet, with title, content, likes and comments.
